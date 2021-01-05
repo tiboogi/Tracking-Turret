@@ -1,7 +1,7 @@
 # CheaperTrackingTurret
-This is my school project implementing https://github.com/HackerShackOfficial/Tracking-Turret project and borrowing it's code
+This is my school project implementing https://github.com/HackerShackOfficial/Tracking-Turret project in a cheaper way
 
-but use cheaper material to build as well as modify some parts.
+by using cheaper material to build as well as modify some parts.
 
 # Materials
 reference:https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-turret-77fb0bI
