@@ -10,7 +10,7 @@ electric airsoft gun × 1(in my case it's an UZI)
 
 Raspberry Pi 3 Model B × 1
 
-any webcam with USB head × 1
+any webcam with USB head × 1(in my case it's Ebook W15)
 
 Adafruit DC+Stepper Motor HAT For RPi × 1
 
@@ -30,17 +30,18 @@ Solder × 1
 
 Soldering iron × 1
 
-screwdriver × 1
+Screwdriver × 1
 
 Swiss Army knife(it's pretty useful to drill hole or cut stuff)
 
 5mm 1/2 PP Hollow Sheet Corrugated Plastic Board × 1
 
-box cutter × 1
+Box cutter × 1
 
-plastic pieces(serve the funtion of a flange)
+Plastic pieces(serve the funtion of a flange)
 
 Female/Female Jumper Wires
+
 # Building structure
 
 reference:https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-turret-77fb0bI 
