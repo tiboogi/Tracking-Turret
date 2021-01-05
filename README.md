@@ -47,10 +47,6 @@ reference:https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-t
 
 Since I don't have proper tools to processing fibreboard, I eventually choose PP Hollow Sheet Corrugated Plastic Board to build by main structure.
 
-# Disclaimer
-
-I do not own these code or profit from them, this is an educational project that help myself and other to learn more about raspberry.
-
 # Tracking-Turret
 A motion tracking turret for https://www.youtube.com/watch?v=HoRPWUl_sF8
 
