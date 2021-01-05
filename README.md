@@ -1,3 +1,56 @@
+# CheaperTrackingTurret
+This is my school project implementing https://github.com/HackerShackOfficial/Tracking-Turret project and borrowing it's code
+
+but use cheaper material to build as well as modify some parts.
+
+# Materials
+reference:https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-turret-77fb0bI
+
+electric airsoft gun × 1(in my case it's an UZI) 
+
+Raspberry Pi 3 Model B × 1
+
+any webcam with USB head × 1
+
+Adafruit DC+Stepper Motor HAT For RPi × 1
+
+NEMA 17 Stepper Motor, 200 Steps/Rev × 2
+
+Tolako 5v Relay Module × 1 (in my case I got a defect airsoft gun that can't fire properly, so I use a buzzer to test the signal instead of Single Relay)
+
+Yeeco 1A DC to DC Step Up Converter
+
+Tape × 1
+
+Portable Cell Phone Charger × 1
+	
+USB-A to Micro-USB Cable × 1
+	
+Solder × 1
+
+Soldering iron × 1
+
+screwdriver × 1
+
+Swiss Army knife(it's pretty useful to drill hole or cut stuff)
+
+5mm 1/2 PP Hollow Sheet Corrugated Plastic Board × 1
+
+box cutter × 1
+
+plastic pieces(serve the funtion of a flange)
+
+Female/Female Jumper Wires
+# Building structure
+
+reference:https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-turret-77fb0bI 
+
+Since I don't have proper tools to processing fibreboard, I eventually choose PP Hollow Sheet Corrugated Plastic Board to build by main structure.
+
+# Disclaimer
+
+I do not own these code or profit from them, this is an educational project that help myself and other to learn more about raspberry.
+
 # Tracking-Turret
 A motion tracking turret for https://www.youtube.com/watch?v=HoRPWUl_sF8
 
