@@ -60,8 +60,8 @@ First off, trace out two 15-cm diameter circles with a compass and cut them out 
 Drill a hole in center and tape the stepper motor on it.
 
 If you didn't subscribe Author's patreon, you can cut out few more pieces to make flange instead of using 3D printer \
-<img src="https://i.imgur.com/39TgXZR.jpg" alt="" class="" data-position="1616" width:50%;" >
-<img src="https://i.imgur.com/tOuY76H.jpg" alt="" class="" data-position="1616" width:50%;" >
+<img src="https://i.imgur.com/39TgXZR.jpg" alt="" class="" data-position="1616" width="50%;" >
+<img src="https://i.imgur.com/tOuY76H.jpg" alt="" class="" data-position="1616" width="50%;" >
 ### Legs
 Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all
 
