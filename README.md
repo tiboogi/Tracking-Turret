@@ -1,5 +1,5 @@
 # CheaperTrackingTurret
-This is my school project implementing </br>https://github.com/HackerShackOfficial/Tracking-Turret project in a cheaper way
+This is my school project implementing https://github.com/HackerShackOfficial/Tracking-Turret project in a cheaper way
 by using cheaper material to build as well as modify some parts.
 
 ## Materials
@@ -28,29 +28,70 @@ reference:</br>https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-
  	
 * Solder × 1
  
-* Soldering iron × 1
+* Soldering Iron × 1
  
 * Screwdriver × 1
  
-* Swiss Army knife 
+* Swiss Army Knife 
 (it's pretty useful to drill hole or cut stuff)
  
 * 5mm 1/2 PP Hollow Sheet Corrugated Plastic Board × 1
  
-* Box cutter × 1
+* Box Cutter × 1
  
-* Plastic pieces(serve the funtion of a flange)
+* Some Plastic pieces(serve the funtion of a flange)
 
 * Female/Female Jumper Wires
 
+* Male/Female Jumper Wires
 ## Building structure
 
-reference:</br>
-https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-turret-77fb0bI </br> https://www.youtube.com/watch?v=HoRPWUl_sF8
+reference:\
+https://www.hackster.io/hackershack/raspberry-pi-motion-tracking-gun-turret-77fb0bI </br> video: \
+https://www.youtube.com/watch?v=HoRPWUl_sF8
 
 Since I don't have proper tools to processing fibreboard, I eventually choose PP Hollow Sheet Corrugated Plastic Board to build by main structure.
 
-## Install Guide
+### Base
+
+First off, trace out two 15-cm diameter circles with a compass and cut them out using box cutter from your hollow sheet.
+![](https://i.imgur.com/nM8NEM2.jpg)
+
+Drill a hole in center and tape the stepper motor on it.
+
+If you didn't subscribe Author's patreon, you can cut out few more pieces to make flange instead of using 3D printer \
+![](https://i.imgur.com/39TgXZR.jpg)
+![](https://i.imgur.com/tOuY76H.jpg)
+### Legs
+Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all![](https://i.imgur.com/vlCcqhE.jpg)
+
+### Wire the gun
+
+Before moving onto the next step, prepare your airsoft gun so it is ready to be mounted onto the turret when it is built. The method of preparation depends on your airsoft or nerf gun model, but there are two options the Author found for attaching wires to our gun:
+
+Option 1:
+
+The first, but perhaps more difficult option, is to take apart your gun and find the switch that gets closed when the trigger is pulled. Remove the wires from this switch and solder them directly to your own longer power and ground wires and feed them out of the gun. Then reassemble the gun. The physical switch actuated by the trigger that you just disconnected will later be replaced by an electrical relay controlled by the Raspberry Pi. Although we used this option, we found it extremely difficult to reassemble our gun properly.
+
+Option 2:
+
+The second option is to leave your gun intact, but solder the power and ground wires to the electrical contacts of the batteries instead. You will then have to hold the trigger down using tape or other means so that the internal switch is closed.
+
+Option 3:(mycase)
+
+IF your gun can't fire properly simply use a buzzer to test![](https://i.imgur.com/fn46NmV.jpg)
+
+
+### Electronic stuff
+Wire your stepper moter to HAT(skip the GND) ![](https://i.imgur.com/uTD4yFA.jpg)
+
+Connect the relay to the stepper motor hat by connecting the power and ground of the relay to the power rail of the stepper motor hat (red and purple wires in the picture below). 
+![](https://i.imgur.com/4behgOw.jpg)
+
+
+
+
+## Softer Install Guide
 
 Make sure pip is installed. 
 ```bash
