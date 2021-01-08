@@ -65,7 +65,7 @@ If you didn't subscribe Author's patreon, you can cut out few more pieces to mak
 ### Legs
 Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all
 
-<img src="https://i.imgur.com/vlCcqhE.jpg" alt="" class="" data-position="1616" style="max-width:50%;" >
+<img src="https://i.imgur.com/vlCcqhE.jpg" alt="" class="" data-position="1616" width="50%;" >
 
 
 ### Wire the gun
@@ -91,7 +91,7 @@ Wire your stepper moter to HAT(skip the GND) ![](https://i.imgur.com/uTD4yFA.jpg
 
 Connect the relay to the stepper motor hat by connecting the power and ground of the relay to the power rail of the stepper motor hat (red and purple wires in the picture below). Then connect the signal wire to the GPIO pin 22 on the Pi (orange wire in the picture below). Connect the output of the relay to the wires on your gun.
 
-<img src="https://i.imgur.com/4behgOw.jpg" alt="" class="" data-position="1616" width="50%;" 
+<img src="https://i.imgur.com/4behgOw.jpg" alt="" class="" data-position="1616" width="50%;">
 
 ## Softer Install Guide
 
