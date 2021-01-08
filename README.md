@@ -93,7 +93,7 @@ Connect the relay to the stepper motor hat by connecting the power and ground of
 
 <img src="https://i.imgur.com/4behgOw.jpg" alt="" class="" data-position="1616" width="50%;">
 
-## Softer Install Guide
+## Software Install Guide
 
 Make sure pip is installed. 
 ```bash
