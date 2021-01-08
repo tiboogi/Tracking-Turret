@@ -55,15 +55,15 @@ Since I don't have proper tools to processing fibreboard, I eventually choose PP
 ### Base
 
 First off, trace out two 15-cm diameter circles with a compass and cut them out using box cutter from your hollow sheet.
-![](https://i.imgur.com/nM8NEM2.jpg=60%x)
+![](https://i.imgur.com/nM8NEM2.jpg)
 
 Drill a hole in center and tape the stepper motor on it.
 
 If you didn't subscribe Author's patreon, you can cut out few more pieces to make flange instead of using 3D printer \
-![](https://i.imgur.com/39TgXZR.jpg=60%x)
-![](https://i.imgur.com/tOuY76H.jpg=60%x)
+![](https://i.imgur.com/39TgXZR.jpg)
+![](https://i.imgur.com/tOuY76H.jpg)
 ### Legs
-Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all![](https://i.imgur.com/vlCcqhE.jpg=60%x)
+Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all![](https://i.imgur.com/vlCcqhE.jpg)
 
 ### Wire the gun
 
@@ -79,14 +79,14 @@ The second option is to leave your gun intact, but solder the power and ground w
 
 Option 3:(mycase)
 
-IF your gun can't fire properly simply use a buzzer to test![](https://i.imgur.com/fn46NmV.jpg=60%x)
+IF your gun can't fire properly simply use a buzzer to test![](https://i.imgur.com/fn46NmV.jpg)
 
 
 ### Electronic stuff
-Wire your stepper moter to HAT(skip the GND) ![](https://i.imgur.com/uTD4yFA.jpg=60%x)
+Wire your stepper moter to HAT(skip the GND) ![](https://i.imgur.com/uTD4yFA.jpg)
 
 Connect the relay to the stepper motor hat by connecting the power and ground of the relay to the power rail of the stepper motor hat (red and purple wires in the picture below). 
-![](https://i.imgur.com/4behgOw.jpg=60%x)
+![](https://i.imgur.com/4behgOw.jpg)
 
 
 
