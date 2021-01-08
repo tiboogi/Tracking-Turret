@@ -54,16 +54,19 @@ Since I don't have proper tools to processing fibreboard, I eventually choose PP
 
 ### Base
 
-First off, trace out two 15-cm diameter circles with a compass and cut them out using box cutter from your hollow sheet.
-![](https://i.imgur.com/nM8NEM2.jpg)
+First off, trace out two 15-cm diameter circles with a compass and cut them out using box cutter from your hollow sheet. \
+<img src="https://i.imgur.com/nM8NEM2.jpg" alt="" class="" data-position="1616" style="max-width:50%;" >
 
 Drill a hole in center and tape the stepper motor on it.
 
 If you didn't subscribe Author's patreon, you can cut out few more pieces to make flange instead of using 3D printer \
-![](https://i.imgur.com/39TgXZR.jpg)
-![](https://i.imgur.com/tOuY76H.jpg)
+<img src="https://i.imgur.com/39TgXZR.jpg" alt="" class="" data-position="1616" style="max-width:50%;" >
+<img src="https://i.imgur.com/tOuY76H.jpg" alt="" class="" data-position="1616" style="max-width:50%;" >
 ### Legs
-Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all![](https://i.imgur.com/vlCcqhE.jpg)
+Cut out 2 leg base on airsoft gun's height，drill hole at about gun's gravity center and tape it all
+
+<img src="https://i.imgur.com/vlCcqhE.jpg" alt="" class="" data-position="1616" style="max-width:50%;" >
+
 
 ### Wire the gun
 
@@ -79,14 +82,14 @@ The second option is to leave your gun intact, but solder the power and ground w
 
 Option 3:(mycase)
 
-IF your gun can't fire properly simply use a buzzer to test![](https://i.imgur.com/fn46NmV.jpg)
-
+IF your gun can't fire properly simply use a buzzer to test
+<img src="https://i.imgur.com/fn46NmV.jpg" alt="" class="" data-position="1616" style="max-width:50%;" >
 
 ### Electronic stuff
-Wire your stepper moter to HAT(skip the GND) ![](https://i.imgur.com/uTD4yFA.jpg)
+Wire your stepper moter to HAT(skip the GND) ![](https://i.imgur.com/uTD4yFA.jpg=60%x)
 
-Connect the relay to the stepper motor hat by connecting the power and ground of the relay to the power rail of the stepper motor hat (red and purple wires in the picture below). 
-![](https://i.imgur.com/4behgOw.jpg)
+Connect the relay to the stepper motor hat by connecting the power and ground of the relay to the power rail of the stepper motor hat (red and purple wires in the picture below). Then connect the signal wire to the GPIO pin 22 on the Pi (orange wire in the picture below). Connect the output of the relay to the wires on your gun.
+![](https://i.imgur.com/4behgOw.jpg=60%x)
 
 
 
